@@ -13,6 +13,6 @@ joanncheng    |Dynamic Webpage     動態網頁生成
 brionychiu    |Static Webpage      靜態網頁生成
 Bala-Chen     |Integrate           專案整合     
 
-### Page Display
+### Page Display 頁面展示
 
 ![Imgur](https://i.imgur.com/iNi1J31.png)
